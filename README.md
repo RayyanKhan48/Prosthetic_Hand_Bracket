@@ -16,18 +16,15 @@ The project was dedicated to the design and optimization of a bracket used in pr
 
 
 ## Boundary Conditions and Mesh Representation
-<img src="https://github.com/RayyanKhan48/Prosthetic_Hand_Bracket/assets/115880728/9db32f47-fb4c-408a-9870-3a6e97e2d082" width="400" alt="Image">
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-<img src="https://github.com/RayyanKhan48/Prosthetic_Hand_Bracket/assets/115880728/8ddb893b-cd40-4834-8d1e-3d192e9006d3" width="400" alt="Image">
+<img src="Image1.png" width="500" alt="Image 1">
+<img src="Image2.png" width="500" alt="Image 2">
 
 ## Stress Distribution
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-<img src="https://github.com/RayyanKhan48/Prosthetic_Hand_Bracket/assets/115880728/96701a6f-d777-4869-a2b1-d30af8a35610" width="600" alt="Image">
+<img src="https://github.com/RayyanKhan48/Prosthetic_Hand_Bracket/assets/115880728/96701a6f-d777-4869-a2b1-d30af8a35610" width="500" alt="Image 3">
 
 ## Final Design
-<img src="https://github.com/RayyanKhan48/Prosthetic_Hand_Bracket/assets/115880728/c76c30ff-7b41-488c-aebc-cc9c604ed3c5" width="400" alt="Image">
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-<img src="https://github.com/RayyanKhan48/Prosthetic_Hand_Bracket/assets/115880728/18583301-fa44-4145-a4f1-f971bf1f1eae" width="500" alt="Image">
+<img src="Image3.png" width="450" alt="Image 4">
+<img src="Image4.png" width="500" alt="Image 5">
 
 
 
