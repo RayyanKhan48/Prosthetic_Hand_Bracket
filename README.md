@@ -20,7 +20,7 @@ The project was dedicated to the design and optimization of a bracket used in pr
 <img src="Image2.png" width="500" alt="Image 2">
 
 ## Stress Distribution
-<img src="https://github.com/RayyanKhan48/Prosthetic_Hand_Bracket/assets/115880728/96701a6f-d777-4869-a2b1-d30af8a35610" width="500" alt="Image 3">
+<img src="Image5.png" width="500" alt="Image 3">
 
 ## Final Design
 <img src="Image3.png" width="450" alt="Image 4">
